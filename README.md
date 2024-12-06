@@ -23,6 +23,7 @@ node <problem_number>.js
 ## Problems
 
 1. [Multiples of 3 and 5](./solutions/1.js)
+2. [Even Fibonacci numbers](./solutions/2.js)
 
 ## License
 
