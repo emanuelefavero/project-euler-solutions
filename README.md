@@ -23,3 +23,11 @@ node <problem_number>.js
 ## Problems
 
 1. [Multiples of 3 and 5](./solutions/1.js)
+
+## License
+
+- [MIT](LICENSE.md)
+
+&nbsp;
+
+[**Go To Top &nbsp; ⬆️**](#project-euler-solutions)
